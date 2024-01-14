@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmohite&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmohite" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dipakmohite01" target="blank"><img src="https://img.shields.io/twitter/follow/dipakmohite01?logo=twitter&style=for-the-badge" alt="dipakmohite01"  </p>
+<p align="left"> <a href="https://linkedin.com/in/dipak-mohite/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-mohite"  </p>
 
 - 🎓 Completed Diploma in Computer Engineering from **Government Polytechnic, Osmanabad (Dharashiv)**
   
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/dipakmohite01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakmohite01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipak-mohite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-mohite" height="30" width="40" /></a>
 <a href="https://instagram.com/dipakmohite01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipakmohite01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dipakmohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipakmohite" height="30" width="40" /></a>
+<a href="https://facebook.com/dipakmohite01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipakmohite01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
