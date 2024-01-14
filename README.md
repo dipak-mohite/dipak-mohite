@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmohite&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmohite" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/dipak-mohite/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-mohite"  </p>
+<p align="left"> <a href="https://linkedin.com/in/dipak-mohite/" target="blank"><img src="https://img.shields.io/linkedin/follow/rishavchanda?logo=linkedin&style=for-the-badge" alt="dipak-mohite"  </p>
 
 - 🎓 Completed Diploma in Computer Engineering from **Government Polytechnic, Osmanabad (Dharashiv)**
   
