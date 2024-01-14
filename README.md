@@ -1,6 +1,6 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dipak Mohite</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h4 align="center">Hello there, I am Dipak Mohite. I have completed my Diploma in Computer Engineering from Government Polytechnic, Osmanabad (Dharashiv) and I am currently pursuing B.Tech in Computer Engineering from MIT Academy of Engineering, Alandi(Pune). I am passionate about the programming and problem solving. I possess proficiency in Core Java, along with extensive experience in coding using C, C++, Python, Javascript and PHP. I am exploring the ever-evolving field of technology and leveraging my knowledge to contribute to innovative solutions. I am eager to apply my expertise and continue growing in the industry.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmohite&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmohite" /> </p>
