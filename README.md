@@ -1,3 +1,4 @@
+<img align="center" width="1000" src="https://drive.google.com/file/d/1qeMxULet0v9m4CVbtGfIBTYkcCreDD1X/view?usp=sharing" alt="Dipak Mohite" />
 
 <h1 align="center">Hi 👋, I'm Dipak Mohite</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
