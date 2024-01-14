@@ -7,15 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/dipakmohite01" target="blank"><img src="https://img.shields.io/twitter/follow/dipakmohite01?logo=twitter&style=for-the-badge" alt="dipakmohite01"  </p>
 
-- 🔭 I’m currently pursuing my Btech in Computer Engineering from MIT Academy of Engineering, Pune
+- 🎓 Completed Diploma in Computer Engineering from **Government Polytechnic, Osmanabad (Dharashiv)**
+  
+- 🌱 Currently pursuing B.Tech in Computer Engineering from **MIT Academy of Engineering, Alandi(Pune)**
+  
+- 💻 Proficient in Core Java, with extensive coding experience in C, C++, Python, JavaScript, and PHP.
+  
+- 🚀 Passionate about programming, problem-solving, and exploring the latest technologies.
+  
+- 👨‍💻 Actively contributing to innovative solutions and eager to apply my expertise in real-world scenarios.
+  
+- 📧 Reach me at **dipakbmohite1@gmail.com**
 
-- 🌱 I’m currently learning **ReactJS and NodeJs**
-
-- 💬 Ask me about **Web Development and Cloud Computing**
-
-- 📫 How to reach me **dipakbmohite1@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
